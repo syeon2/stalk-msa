@@ -1,0 +1,15 @@
+[submodule "stalk-config"]
+	path = stalk-config
+	url = https://github.com/syeon2/stalk-config.git
+[submodule "stalk-service-discovery"]
+	path = stalk-service-discovery
+	url = https://github.com/syeon2/stalk-service-discovery.git
+[submodule "stalk-api-gateway"]
+	path = stalk-api-gateway
+	url = https://github.com/syeon2/stalk-api-gateway.git
+[submodule "stalk-member"]
+	path = stalk-member
+	url = https://github.com/syeon2/stalk-member.git
+[submodule "stalk-activity"]
+	path = stalk-activity
+	url = https://github.com/syeon2/stalk-activity.git
